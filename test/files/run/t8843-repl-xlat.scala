@@ -8,7 +8,6 @@ object Test extends SessionTest {
 Type :help for more information.
 
 scala> $intp.isettings.unwrapStrings = false
-$intp.isettings.unwrapStrings: Boolean = false
 
 scala> class Bippy
 defined class Bippy
