@@ -3,6 +3,5 @@ Type :help for more information.
 
 
 scala> .lines
-res1: List[String] = List(shello, world.)
 
 scala> :quit

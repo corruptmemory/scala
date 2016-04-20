@@ -1,3 +1,5 @@
+Type in expressions to have them evaluated.
+Type :help for more information.
 
 scala> case class K(s: String)
 defined class K
